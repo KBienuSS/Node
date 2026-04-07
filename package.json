@@ -1,0 +1,12 @@
+{
+  "name": "Node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KBienuSS/Node.git",
+  "author": "Kamil Bieniek <bienius.234@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
